@@ -1,0 +1,31 @@
+{
+  "name": "keeper",
+  "version": "1.0.0",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "json-loader": "^0.5.7",
+    "lite-server": "^2.3.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "style-loader": "^0.21.0",
+    "web3": "^0.20.0",
+    "webpack": "^4.8.1"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
